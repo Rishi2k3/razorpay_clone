@@ -6,3 +6,7 @@
 .newFeatureCard {
     box-shadow: 2px 4px 9px 1px hsla(0, 0%, 0%, 0.05);
 }
+
+.coreFeatureCard {
+    box-shadow: 2px 4px 9px 1px rgba(0, 0, 139, 0.2); /* Dark blue with a slight opacity */
+}
